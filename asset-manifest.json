@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/preEntrega_react_LagoMatias/static/css/main.073c9b0a.css",
+    "main.js": "/preEntrega_react_LagoMatias/static/js/main.60da3ad2.js",
+    "index.html": "/preEntrega_react_LagoMatias/index.html",
+    "main.073c9b0a.css.map": "/preEntrega_react_LagoMatias/static/css/main.073c9b0a.css.map",
+    "main.60da3ad2.js.map": "/preEntrega_react_LagoMatias/static/js/main.60da3ad2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.60da3ad2.js"
+  ]
+}
